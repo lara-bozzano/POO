@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "poo",
+  "version": "1.0.0",
+  "main": "miPrimerEjercicio.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lara-bozzano/POO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lara-bozzano/POO/issues"
+  },
+  "homepage": "https://github.com/lara-bozzano/POO#readme",
+  "description": ""
 }

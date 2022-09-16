@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "bootstrap": "^5.2.1",
     "readline-sync": "^1.4.10"
   },
   "name": "poo",
   "version": "1.0.0",
   "main": "miPrimerEjercicio.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
